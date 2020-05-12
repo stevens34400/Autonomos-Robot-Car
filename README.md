@@ -1,5 +1,5 @@
 # Autonomos Robot Car
-This project was entirely based on Penn State's Microcomputer Lab (CMPEN 473) curriculum. Project folders under "Projects" are labled with preceding numbers indicating order of implementation. Final implementation allows car to autonomosly follow a pre-built course while mapping its route and showing IMU variables. More information can be found through 
+This project was entirely based on Penn State's Microcomputer Lab (CMPEN 473) curriculum. Project folders under "Projects" are labled with preceding numbers indicating order of implementation. Final implementation in C allows car to autonomosly follow a pre-built course while mapping its route and showing IMU variables. More information can be found through 
  [course website](http://www.cse.psu.edu/~kxc104/class/cmpen473/20s/).
 
 
@@ -15,15 +15,17 @@ This project was entirely based on Penn State's Microcomputer Lab (CMPEN 473) cu
   <img width="500" height="500" src="https://github.com/stevens34400/Autonomos_Robot_Car/blob/master/images/Car_Top.jpg">
 </p>
 
+### OSOYOO IR Sensor
+<p align="center">
+  <img width="800" height="500" src="https://github.com/stevens34400/Autonomos_Robot_Car/blob/master/images/IR_Sensor.jpg">
+</p>
+Crucial to consider placement of IR sensors when testing program. As shown in car pictures, IR sensors have been placed slightly in front of toy car to allow correct movement of vehicle.
+
 ### LSM9DS1 IMU Board
 <p align="center">
   <img width="800" height="500" src="https://github.com/stevens34400/Autonomos_Robot_Car/blob/master/images/IMU.jpg">
 </p>
 
-### OSOYOO IR Sensor
-<p align="center">
-  <img width="800" height="500" src="https://github.com/stevens34400/Autonomos_Robot_Car/blob/master/images/IR_Sensor.jpg">
-</p>
 
 ### TB6612FNG Motor Driver Board
 <p align="center">
