@@ -35,4 +35,8 @@ This project was entirely based on Penn State's Microcomputer Lab (CMPEN 473) cu
   <img width="800" height="500" src="https://github.com/stevens34400/Autonomos_Robot_Car/blob/master/images/Rpi3_Wedge.jpg">
 </p>
 
+### Additional items:
+- 3mm LED lights
+- Powerbank (to power Rpi3) with micro B cable
+- 16 GB micro SD card
 
