@@ -7,14 +7,6 @@ This project was entirely based on Penn State's Microcomputer Lab (CMPEN 473) cu
   <img width="900" height="500" src="https://github.com/stevens34400/Autonomos_Robot_Car/blob/master/images/Course.PNG">
 </p>
 
-### Sample output of mapping functionality
-<p align="center">
-  <img width="600" height="500" src="https://github.com/stevens34400/Autonomos_Robot_Car/blob/master/images/map.PNG">
-</p>
-
-Sample output taken from 
- [site](http://www.cse.psu.edu/~kxc104/class/cmpen473/20s/hw/hw6/hw6.pdf). Location of value shows the position of car on track while the magnitude indicates speed. 
-
 ## Hardware
 
 ### Side View of Car
